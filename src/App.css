@@ -1,0 +1,27 @@
+
+   .register-container{
+    width:500px !important;
+   }
+
+   .user-container{
+    width:300px !important;
+   }
+
+   .main-card-container {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 500px));
+    grid-gap: 50px;
+    justify-content: space-around;
+    }
+
+    .button{
+      margin-top: 10px;
+    }
+
+    .button1{
+      margin-top: 10px;
+    }
+
+    .fonts{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
